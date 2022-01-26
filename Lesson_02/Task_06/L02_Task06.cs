@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Lesson_02
 {
@@ -250,7 +246,7 @@ namespace Lesson_02
 
             }
 
-            Console.WriteLine("\nНажмите любую клавишу для завершения работы ...");
+            Console.WriteLine("\n\nНажмите любую клавишу для завершения работы ...");
             System.Console.ReadKey();
 
 
