@@ -229,7 +229,7 @@ namespace Lesson_02
 
                         result = result + dayStart + dayEnd;
 
-                        dayStart = null;
+                        dayStart = null; 
                         dayEnd = null;
                         isWorking = false;
                     }

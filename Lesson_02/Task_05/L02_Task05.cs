@@ -26,7 +26,7 @@ namespace Lesson_02
                     switch (currentMonth.MonthNumber)
                     {
                         case 1:
-                        case 11:
+                        case 2:
                         case 12:
                             {
                                 if (0 < averageTemperature.DayAverageTemp)
