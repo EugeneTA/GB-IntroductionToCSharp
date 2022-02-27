@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Lesson_06": {
+      "commandName": "Project",
+      "commandLineArgs": "-List"
+    }
+  }
+}
